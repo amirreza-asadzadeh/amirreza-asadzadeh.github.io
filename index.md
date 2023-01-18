@@ -3,6 +3,7 @@ layout: default
 title: "Home"
 ---
 
+<div style="margin: 0 50px;">
 
 I earned my Masters of Applied Science degree from the [Electrical and Computer Engineering Department](https://www.ece.utoronto.ca) from the [University of Toronto](https://www.utoronto.ca) in November 2022. Prior to that, I got my Bachelors of Science degree in Electrical Engineering with a minors in Mathematics from [Sharif University of Technology](https://en.sharif.edu/sharif-university-of-technology), Tehran, Iran.
 
