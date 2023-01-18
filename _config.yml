@@ -17,9 +17,7 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title = "Home"}
-  - {file: "index_Projects.html", title = "Projects"}
-  - {file: "/Resume_Amirreza_Asadzadeh.pdf", title = "Resume"}
-  - {file: "index_Bio.html", title = "Bio"}
+  - {file: "Resume_Amirreza_Asadzadeh.pdf", title = "Resume"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:amirreza.asadzadeh@mail.utoronto.ca"}
